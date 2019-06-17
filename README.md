@@ -1,7 +1,7 @@
 # React-GraphQL-World-Map
 
 ### Live Link
-- https://codepen.io/armin-es/full/OzLWJR/
+- https://react-graphql-world-map.firebaseapp.com/
 
 ### Description
 
