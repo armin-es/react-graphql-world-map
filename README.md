@@ -16,8 +16,8 @@ A React JS application that requests country information from an existing [Graph
 
 ### Installation
 On command line:
-- `git clone https://github.com/armin-es/currency-converter-web-component.git`: to clone the repository on your local computer
-- `cd currency-converter-web-component`: to navigate to root directory
+- `git clone https://github.com/armin-es/react-graphql-world-map.git`: to clone the repository on your local computer
+- `cd react-graphql-world-map`: to navigate to root directory
 - `yarn install` to install node module dependencies
 
 
